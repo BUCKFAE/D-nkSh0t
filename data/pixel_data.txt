@@ -1,0 +1,3 @@
+Physical: {X=324,Y=856}
+Scaled: {X=216,Y=570}
+Pixel Color: #D0532A
